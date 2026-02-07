@@ -1,3 +1,4 @@
+
 # Amazon Clone
 
 A responsive HTML and CSS clone of Amazon's homepage interface. This project demonstrates modern web design principles with a clean, user-friendly layout that mimics Amazon's visual style.
@@ -58,3 +59,4 @@ You can easily customize this project by:
 ## License
 
 This project is for educational purposes only.
+
